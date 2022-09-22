@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="5" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-22T12:30:04 IST" name="Default suite" finished-at="2022-09-22T12:30:06 IST" duration-ms="2089">
+    <groups>
+    </groups>
+    <test started-at="2022-09-22T12:30:04 IST" name="Default test" finished-at="2022-09-22T12:30:06 IST" duration-ms="2089">
+      <class name="TestingVedioGameAPI.TestResponseFromVideoGameDb">
+        <test-method signature="deleteExistingVedioGame()[pri:0, instance:TestingVedioGameAPI.TestResponseFromVideoGameDb@3e6ef8ad]" started-at="2022-09-22T12:30:04 IST" name="deleteExistingVedioGame" finished-at="2022-09-22T12:30:06 IST" duration-ms="2026" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteExistingVedioGame -->
+      </class> <!-- TestingVedioGameAPI.TestResponseFromVideoGameDb -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
