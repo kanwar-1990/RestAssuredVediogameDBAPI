@@ -5,7 +5,7 @@ Import file for restassured
 --------------------------------------------------------
 import static files--
 
-import static io.restassured.RestAssured.given;
+import static io.restassured.RestAssured.given;  
 import static org.hamcrest.Matchers.equalTo;
 
 ---------------------------------------------------------
